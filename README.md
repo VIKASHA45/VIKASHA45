@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikasha Das</h1>
 <h3 align="center">A passionate Java FullStack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasha45&label=Profile%20views&color=0e75b6&style=flat" alt="vikasha45" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikasha45" alt="vikasha45" /></a> </p>
-
 - 🌱 I’m currently learning **Java FullStack from Jspiders, Marathahalli**
 
 - 🤝 I’m looking for new role **Software Developer**
