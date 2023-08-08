@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikasha45" alt="vikasha45" /></a> </p>
 
-- 🌱 I’m currently learning **Java FullStack from Jspider, Marathahalli**
+- 🌱 I’m currently learning **Java FullStack from Jspiders, Marathahalli**
 
 - 🤝 I’m looking for new role **Software Developer**
 
