@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vikasha Das</h1>
 <h3 align="center">A passionate Java FullStack developer from India</h3>
 
-- 🌱 I’m currently learning **Java FullStack from Jspiders, Marathahalli**
+- 🌱 I’m currently working as an **Package App Development Associate at Accenture, Bengluru**
 
-- 🤝 I’m looking for new role **Software Developer**
+- 🤝 I’m looking for a new role as **Software Developer**
 
 - 📫 How to reach me **vikashadas45@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vgaH4AGh_8_Y1aBBTq8fl3CZP0BdcGWq/view?usp=drive_link](https://drive.google.com/file/d/1vgaH4AGh_8_Y1aBBTq8fl3CZP0BdcGWq/view?usp=drive_link)
 
-- ⚡ Fun fact **I love anime/manhua**
+- ⚡ Fun fact **I love anime and learning new stuff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
